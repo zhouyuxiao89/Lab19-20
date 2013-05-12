@@ -14,10 +14,10 @@ public class DiceTest {
          int c = dice1.RollDice1(10);
          System.out.printf("The dice is %d\n", c);
          
-         //Test triple dices roll times
+         //Test dice roll times
          dice1.showRollCount();
        
-         //Test triple dices roll times after using Reset method
+         //Test dice roll times after using Reset method
          dice1.Reset();
          dice1.showRollCount();
     }
