@@ -1,4 +1,3 @@
-
 public class Dice {
     private  int RollCount1;
       private  static int RollCount2;
